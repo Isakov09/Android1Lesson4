@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android1Lesson4</string>
+    <string name="Number">Введите номер телефона</string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="google">Google</string>
+    <string name="youtube">YouTube</string>
+    <string name="Дальше">GoTo</string>
+</resources>
